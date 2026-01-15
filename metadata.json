@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of شيف العيلة (Family Chef)",
+  "description": "AI-powered kitchen assistant that identifies ingredients from photos to generate personalized recipes based on health data and dietary needs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
